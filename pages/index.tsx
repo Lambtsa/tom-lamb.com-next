@@ -12,10 +12,14 @@ import Projects from '../components/Projects';
 import Experience from '../components/Experience';
 import Apps from '../components/Apps';
 import Footer from '../components/Footer';
+import Metadata from '../components/Metadata';
 
 const Home = () => {
   return (
     <>
+      <Metadata
+        title="Product Manager and Frontend developer."
+        description="Product Manager and Frontend developer." />
       <Header />
       <Jumbotron />
       <About />

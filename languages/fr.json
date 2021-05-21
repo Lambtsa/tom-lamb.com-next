@@ -1,8 +1,8 @@
 {
     "notFound": {
-        "title": "404 ERROR",
-        "subtitle": "Je n'arrive malheureusement pas à trouver la page que tu cherches.",
-        "button": "Accueil"
+        "title": "404",
+        "subtitle": "Malheureusement cette page n'existe pas.",
+        "button": "accueil"
     },
     "jumbotron": {
         "jumbotronTitle": "Hey! 👋🏼 Moi c'est Tom!",
