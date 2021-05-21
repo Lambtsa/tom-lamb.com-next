@@ -1,4 +1,4 @@
-# Reminders App by Tom Lamb
+# Portfolio App by Tom Lamb
 Welcome to my Portfolio. This site is completely built in Next js using typescript and React js.
 
 The app is deployed on my own domain at the following url: [https://tom-lamb.com/](https://tom-lamb.com/)
