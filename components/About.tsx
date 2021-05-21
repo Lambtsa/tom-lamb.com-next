@@ -9,6 +9,8 @@ const About = () => {
       <div className="about__container">
         <img
           className="about__img"
+          width="400px"
+          height="600px"
           src="/assets/IMG_3377.png"
           alt="Tom Lamb in a dark t shirt and a flat cap" />
         <div className="about__content">

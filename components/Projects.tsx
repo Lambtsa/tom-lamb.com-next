@@ -11,6 +11,8 @@ const Projects = () => {
         <div className="projects__container">
           <a target="_blank" rel="noreferrer" href="https://ui-tasks.netlify.app/" className="project">
             <img
+              height="60px"
+              width="60px"
               className="project__img"
               src="/assets/ubiquiti.svg"
               alt="" />
@@ -19,6 +21,8 @@ const Projects = () => {
           </a>
           <a target="_blank" rel="noreferrer" href="https://lambtsa.github.io/currency-app-react/" className="project">
             <img
+              height="60px"
+              width="60px"
               className="project__img"
               src="/assets/currency.svg"
               alt="" />
@@ -27,6 +31,8 @@ const Projects = () => {
           </a>
           <a target="_blank" rel="noreferrer" href="https://charlies-closet.com/" className="project">
             <img
+              height="60px"
+              width="60px"
               className="project__img"
               src="/assets/charlie.svg"
               alt="" />
@@ -35,6 +41,8 @@ const Projects = () => {
           </a>
           <a target="_blank" rel="noreferrer" href="https://tradegard.netlify.app/" className="project">
             <img
+              height="60px"
+              width="60px"
               className="project__img"
               src="/assets/tradegard.svg"
               alt="" />

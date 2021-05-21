@@ -13,6 +13,8 @@ const Skills = () => {
       <div className="skills">
         <div className="skills__skill">
           <img
+            height="60px"
+            width="60px"
             src="/assets/icons/product_management.svg"
             className="work-icon margin-botton"
             alt="" />
@@ -21,6 +23,8 @@ const Skills = () => {
         </div>
         <div className="skills__skill">
           <img
+            height="60px"
+            width="60px"
             src="/assets/icons/web_development.svg"
             className="work-icon margin-botton"
             alt="" />
@@ -29,6 +33,8 @@ const Skills = () => {
         </div>
         <div className="skills__skill">
           <img
+            height="60px"
+            width="60px"
             src="/assets/icons/web_design.svg"
             className="work-icon margin-botton"
             alt="" />

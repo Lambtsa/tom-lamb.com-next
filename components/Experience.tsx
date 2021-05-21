@@ -13,6 +13,8 @@ const Experience = () => {
       <div className="experiences__container">
         <div className="experiences__card">
           <img
+            height="60px"
+            width="60px"
             className="experiences__img salt"
             src="/assets/saltlogo.svg"
             alt="" />
@@ -25,6 +27,8 @@ const Experience = () => {
         </div>
         <div className="experiences__card">
           <img
+            height="60px"
+            width="60px"
             className="experiences__img"
             src="/assets/portail-logo.svg"
             alt="" />
@@ -37,6 +41,8 @@ const Experience = () => {
         </div>
         <div className="experiences__card">
           <img
+            height="60px"
+            width="60px"
             className="experiences__img"
             src="/assets/simplitoo.svg"
             alt="" />
@@ -49,6 +55,8 @@ const Experience = () => {
         </div>
         <div className="experiences__card">
           <img
+            height="60px"
+            width="60px"
             className="experiences__img"
             src="/assets/betao.svg"
             alt="" />

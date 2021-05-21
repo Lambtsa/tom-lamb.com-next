@@ -38,15 +38,17 @@ const Header = () => {
           <a href="/">
             <img
               className="header__img"
+              height="60px"
+              width="60px"
               src="/assets/tom-lamb.svg"
               alt="Tom Lamb logo lettering" />
           </a>
           <div className="flags">
             <button className="flags__btn" onClick={handleEnClick} id="en" type="button">
-              <img className="flag" src="/assets/en.svg" alt="Union Jack icon with rounded corners" />
+              <img height="30px" width="30px" className="flag" src="/assets/en.svg" alt="Union Jack icon with rounded corners" />
             </button>
             <button className="flags__btn" onClick={handleFrClick} id="fr" type="button">
-              <img className="flag" src="/assets/fr.svg" alt="French flag icon with rounded corners" />
+              <img height="30px" width="30px" className="flag" src="/assets/fr.svg" alt="French flag icon with rounded corners" />
             </button>
           </div>
         </nav>

@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "deploy": "yarn build && next export && scp -r ./out/* root@167.99.34.64:/var/www/tom-lamb.com/"
+    "deploy": "yarn build && next export && scp -r ./out/* root@206.189.108.250:/var/www/tom-lamb.com/html"
   },
   "dependencies": {
     "next": "10.2.2",
