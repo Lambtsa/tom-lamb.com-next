@@ -72,7 +72,7 @@ button {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url('/assets/Background.png');
+  background-image: url('/assets/Background.webp');
   background-position: center;
   background-size: cover;
   text-align: center;
@@ -397,7 +397,7 @@ button {
 
 @media only screen and (min-width: 576px) {
   .about {
-    background-image: url('/assets/about-me__background.png');
+    background-image: url('/assets/about-me__background.webp');
     background-position: center;
     background-size: cover;
   }
