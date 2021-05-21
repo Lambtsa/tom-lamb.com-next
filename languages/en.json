@@ -1,0 +1,102 @@
+{
+    "notFound": {
+        "title": "404 ERROR",
+        "subtitle": "I can't seem to find the page you are looking for.",
+        "button": "Head home"
+    },
+    "jumbotron": {
+        "jumbotronTitle": "Hello! 👋🏼 I'm Tom!",
+        "jumbotronSubtitle": "I'm a passionate fullstack javascript developer and product manager based out of Stockholm, Sweden.",
+        "jumbotronBtn": "Contact me"
+    },
+    "aboutMe": {
+         "aboutMeTitle": "About Me",
+         "aboutMeParagraph1": "I am full stack Javascript developer and product manager who has worked in both LegalTech and Fintech within the Stockholm ecosystem.",
+         "aboutMeParagraph2": "Driven by process with a keen eye on the big picture, I strive to constantly optimise my work and the work of the teams I manage to fulfil product objectives.",
+         "aboutMeParagraph3": "I have launched multiple products by ensuring productive cross-functional team collaboration and encouraging communication within an agile framework.",
+         "aboutMeParagraph4": "I am also a passionate skier, a skateboarder and when I am not outside in the wilderness, I spend my time developing websites and apps."
+    },
+    "projects": {
+        "projectsTitle": "My projects",
+        "project1": "A Reminders app allowing users to add, edit and collaborate on tasks in realtime. Built with ReactJS, Typescript, Socket.io and Beautiful dnd on the client side and ExpressJS, Typescript, Socket.io and MongoDB on the server side.",
+        "project2": "An app to receive updates on the main world currencies including the main cryptocurrencies. Built with ReactJS, ExpressJS and MongoDB and deployed on Github pages (client side) and Heroku (server side).",
+        "project3": "An app for parents in France to be able to rent second hand baby clothes during the first months of their babies lives. This circular economy app is built in ReactJS, Typescript on the client side and ExpressJS, MongoDB and Typescript on the server side.",
+        "project4": "An app where users can trade items with each other. Made in 9 days, this full-stack application includes user sign-up and authentication, an interface for creating new items and uploading images, as well a matching feature which informs the users of mutual trading interests."
+    },
+    "stats": {
+        "stats1": {
+          "number": "4+",
+          "subtitle": "Years of Product Management"
+        },
+        "stats2": {
+          "number": "18+",
+          "subtitle": "Months of javascript development"
+        },
+        "stats3": {
+          "number": "2",
+          "subtitle": "SaaS Products launched"
+        },
+        "stats4": {
+          "number": "10000+",
+          "subtitle": "Lines of code written"
+        }
+    },
+    "skills": {
+        "skillsTitle": "My Key Skills",
+        "skillsSubtitle": "Through many years of experience in business management, product management and web development, I have developed key skills during my career.",
+        "skillCards": {
+            "skill1": {
+                "skillTitle1": "Product Management",
+                "skillText1": "By constantly optimising internal processes and striving for a big picture of the product and its objectives, I manage my products by having a clear overview of all the moving pieces in order to maintain agility and speed to market."
+            },
+            "skill2": {
+                "skillTitle2": "Full Stack development",
+                "skillText2": "From databases built in SQL or Mongo DB to websites like this one built in Reactjs, I can build full stack applications in javascript to bring best practice solutions to businesses en entrepreneurs."
+            },
+            "skill3": {
+                "skillTitle3": "UX/UI and web design",
+                "skillText3": "With a keen interest in human psychology and its effects on UX and a strong belief in user centered design, I push to implement clean and efficient design in my products, based on a fine balance between intuition, innovation and user feedback."
+            }
+        }
+    },
+    "experience": {
+        "experienceTitle": "Experience",
+        "experienceLink": "see company website",
+        "experience1": {
+            "experienceTitle1": "Full-stack Javascript Developer",
+            "experienceCaption1": "Jan 2021 - Present",
+            "experienceContent1": "I am currently working as a full stack javascript developer for Salt in Stockholm. From front ends in ReactJS to databases in Mongo DB, I bring all my experience of product management and UX/UI to all my new projects."
+        },
+        "experience2": {
+            "experienceTitle2": "Digital Product Manager",
+            "experienceCaption2": "Jan 2020 - Dec 2020",
+            "experienceContent2": "As Product manager for Betao's User System/ invoicing tool, I was the bridge between the company's strategic vision and the two main products we created. I was responsible for identifying market needs and competitive opportunities while defining the product strategies, feature roadmaps and enhancing customer experience."
+        },
+        "experience3": {
+            "experienceTitle3": "Digital Product Manager",
+            "experienceCaption3": "Feb 2019 - Jan 2020",
+            "experienceContent3": "As a Product Manager for Simplitoo, I was responsible for analysing the market and competitive environment in order to define a clear product vision and growth strategy. In this role I got to move the company to a more user focused organisation, build consensus amongst stakeholders and further develop my technical knowledge in software engineering."
+        },
+        "experience4": {
+            "experienceTitle4": "Project Manager",
+            "experienceCaption4": "Jun 2017 - Feb 2019",
+            "experienceContent4": "As a Project Manager I led a cross-functional team to the successful launch of Betao’s online solution to help entrepreneurs create their capital companies in France. During this project I introduced agile methodology and lean product development to the company with a view to accessing user orientated business opportunities enhancing productivity."
+        }
+    },
+    "appsTitle": {
+        "title": "My tech stack",
+        "subtitle": "Here are some of the technologies, languages or applications that i work with on a daily basis."
+    },
+    "contact": {
+        "title": "Contact me",
+        "subtitle": "Through many years of experience in business management, product management and web development, I have developed key skills during my career.",
+        "first_name": "First name",
+        "last_name": "Last name",
+        "email": "Email address",
+        "message": "Message",
+        "btn": "Contact me"
+      },
+    "copyright": {
+        "title": "Tom Lamb. All rights reserved."
+    }
+}

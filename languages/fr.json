@@ -1,0 +1,102 @@
+{
+    "notFound": {
+        "title": "404 ERROR",
+        "subtitle": "Je n'arrive malheureusement pas à trouver la page que tu cherches.",
+        "button": "Accueil"
+    },
+    "jumbotron": {
+        "jumbotronTitle": "Hey! 👋🏼 Moi c'est Tom!",
+        "jumbotronSubtitle": "Je suis un développeur fullstack en javascript et un chef de produit passionné basé à Stockholm en Suède.",
+        "jumbotronBtn": "Contactez-moi"
+    },
+    "aboutMe": {
+        "aboutMeTitle": "A propos de moi",
+        "aboutMeParagraph1": "Je suis un développeur full stack en Javascript et un product manager travaillant à la fois en LegalTech et Fintech au sein de l'écosystème des startups à Stockholm.",
+        "aboutMeParagraph2": "Animé par des processes, avec un œil attentif sur la vue d'ensemble, je m'efforce d'optimiser en permanence mon travail et celui des équipes que je gère pour mieux atteindre nos objectifs.",
+        "aboutMeParagraph3": "J'ai lancé plusieurs produits en assurant une collaboration efficace et agile entre les équipes et en encourageant la communication.",
+        "aboutMeParagraph4": "Je suis aussi un skieur passionné, un skateur et quand je ne suis pas dehors en pleine nature, je passe mon temps libre à développer des sites Web."
+    },
+    "projects": {
+        "projectsTitle": "Mes projets",
+        "project1": "Une app permettant aux utilisateurs de créer, éditer et collaborer sur des tâches en temps réel. Le frontend est construit en ReactJS, Typescript, Socket.io et Beautiful dnd et le backend avec ExpressJS, typescript, socket.io et MongoDB.",
+        "project2": "Cette application permet de recevoir des updates des monnaies internationales et crptomonnaies. Elle est contruite avec ReactJS, ExpressJS et MongoDB et deployée sur Github pages pour le frontend et Heroku pour le backend",
+        "project3": "Ue application permettant au parents habitant en France de louer des vêtements made in France et éco-responsables pour leurs bébés. Cette app nouvelle génération est construite en ReactJS, Typescript en frontend et ExpressJS, MongoDB, Mongoose et Typescript en backend.",
+        "project4": "Une app pour l'échange d'articles entre particuliers. Construit en 9 jours, cette application full stack inclu une authentification avec Okta, une interface pour créer des annonces et uploader des images et une business logic en - permettant aux utilisateurs d'etre matchés selon leurs choix."
+    },
+    "stats": {
+        "stats1": {
+        "number": "4+",
+        "subtitle": "Années de Gestion de Projects"
+        },
+        "stats2": {
+        "number": "18+",
+        "subtitle": "Mois de développement javascript"
+        },
+        "stats3": {
+        "number": "2",
+        "subtitle": "Produits SaaS lancés"
+        },
+        "stats4": {
+        "number": "10000+",
+        "subtitle": "Lignes de code"
+        }
+    },
+    "skills": {
+        "skillsTitle": "Mes compétences clés",
+        "skillsSubtitle": "Grâce à de nombreuses années d'expérience en gestion d'entreprise, gestion de produits et développement web, j'ai développé des compétences clés au cours de ma carrière.",
+        "skillCards": {
+            "skill1": {
+                "skillTitle1": "Gestion de produit",
+                "skillText1": "En optimisant les processes internes et en cherchant à avoir une vue d'ensemble du produit, ses utilisateurs et ses objectifs, je gère mes produits en ayant une vision claire du court et long termes afin d'assurer une amélioration continue et agile du produit"
+            },
+            "skill2": {
+                "skillTitle2": "Développement web",
+                "skillText2": "Des bases de données en SQL ou Mongo DB aux sites webs comme celui-ci construit en ReactJS, je développe des applications full stack en javascript pour apporter des solutions aux entreprises et entrepreneurs."
+            },
+            "skill3": {
+                "skillTitle3": "UX/UI et web design",
+                "skillText3": "Avec un fort intérêt pour la psychologie humaine notamment lié à l'expérience utilisateur, je m'efforce de mettre en place des designs sobres, efficaces et 'user-centered', basés sur un équilibre entre l'intuition, l'innovation et les retours utilisateurs."
+            }
+        }
+    },
+    "experience": {
+        "experienceTitle": "Expériences récentes",
+        "experienceLink": "voir l'entreprise",
+        "experience1": {
+            "experienceTitle1": "Chef de produit digital",
+            "experienceCaption1": "Janvier 2021 - Présent",
+            "experienceContent1": "Je suis actuellement développeur javascript pour Salt à Stockholm. Des frontends en React jusqu'aux bases de données en Mongo DB, j'apporte toute mon expérience en gestion de produits et UX/UI à mes nouveaux projets tech."
+        },
+        "experience2": {
+            "experienceTitle2": "Chef de produit digital",
+            "experienceCaption2": "Janvier 2020 - Décembre 2020",
+            "experienceContent2": "En tant que Product Manager pour Portail Auto-entrepreneur, j'étais responsable de l'identification des besoins du marché et des opportunités concurrentielles tout en définissant la stratégie produit, les roadmaps de fonctionnalités et l'amélioration de l'expérience utilisateur pour le produit phare de Betao."
+        },
+        "experience3": {
+            "experienceTitle3": "Chef de produit digital",
+            "experienceCaption3": "Février 2019 - janvier 2020",
+            "experienceContent3": "En tant que Product Manager digital pour Simplitoo, j'étais reponsable de l'analyse de données utilisateurs ainsi que la définition de la vision produit et de la stratégie de croissance du produit. Dans ce role j'ai pu accompagner le produit et l'equipe vers une organisation basée sur les utilisateurs."
+        },
+        "experience4": {
+            "experienceTitle4": "Chef de projet",
+            "experienceCaption4": "Juin 2017 - février 2019",
+            "experienceContent4": "Avec une petite équipe, au départ, j'ai lancé une solution Saas pour simplifier les démarches administratives de la création de sociétés à capital en France - Simplitoo. Dans ce role j'ai pu mettre en place une methodologie agile au sein de Betao dans le but d'augmenter la productivité et la croissance du produit."
+        }
+    },
+    "appsTitle": {
+        "title": "Ma tech stack",
+        "subtitle": "Les technologies ou applications avec lesquelles je travaille au quotidien."
+    },
+    "contact": {
+        "title": "Contactez-moi",
+        "subtitle": "Grâce à de nombreuses années d'expérience en gestion d'entreprise, gestion de produits et développement web, j'ai développé des compétences clés au cours de ma carrière.",
+        "first_name": "Prénom",
+        "last_name": "Nom de famille",
+        "email": "Adresse email",
+        "message": "Message",
+        "btn": "Contactez-moi"
+      },
+    "copyright": {
+        "title": "Tom Lamb. Tous droits réservés."
+    }
+}
