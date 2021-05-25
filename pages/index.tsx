@@ -18,8 +18,8 @@ const Home = () => {
   return (
     <>
       <Metadata
-        title="Product Manager and Frontend developer."
-        description="Product Manager and Frontend developer." />
+        title="Full stack javascript developer and product manager."
+        description="Full stack javascript developer and product manager." />
       <Header />
       <Jumbotron />
       <About />
